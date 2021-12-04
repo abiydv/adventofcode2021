@@ -1,3 +1,11 @@
+# usage: p2.py [-h] [-f [FILE]] [--debug]
+#
+# optional arguments:
+#   -h, --help            show this help message and exit
+#   -f [FILE], --file [FILE]
+#                         specify the input file
+#   --debug               show debug output
+
 from helper import parse_arguments, init_logger
 from p1 import compare_elements
 
