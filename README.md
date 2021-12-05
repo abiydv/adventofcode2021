@@ -1,4 +1,4 @@
-## Adent of Code, 2021
+## Advent of Code, 2021
 
 More info: https://adventofcode.com/2021
 
